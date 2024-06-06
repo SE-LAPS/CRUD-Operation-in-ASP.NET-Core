@@ -1,0 +1,6 @@
+![Screenshot (977)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/b53f58b4-f6a7-4d93-9833-06a92bf10b71)
+![Screenshot (976)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/15f53f2c-39c4-47f6-991f-2dd80b3a04e1)
+![Screenshot (975)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/935e5729-9a43-47f6-ab63-e919cdf9cea8)
+![Screenshot (974)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/583847cd-fb44-4e71-a10a-810f36221d96)
+![Screenshot (973)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/76332268-1984-4ce3-826f-15c6a0a7be55)
+![Screenshot (972)](https://github.com/SE-LAPS/CRUD-Operation-in-ASP.NET-Core/assets/87580847/6c2bf346-74b0-4073-9cbb-ed40cc132754)
